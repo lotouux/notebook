@@ -191,4 +191,18 @@ Ela permite escalabilidade, segurança, eficiência e automação em larga escal
 
 Dominar seus conceitos é essencial para qualquer área de infraestrutura, cloud e DevOps.
 
+---
+
+## 9. Trilha
+
+Para se aprofundar mais no conteúdo, acesse minha trilha de estudos na Alura:
+
+<div align="center">
+
+<a href="https://cursos.alura.com.br/fundamentos-e-administracao-cloud-computing-beatriz-camargo-serafini-1778537955469-p1080290">
+  <img src="https://img.shields.io/badge/📚%20Acessar%20Trilha-Alura-cd9bcc?style=for-the-badge" />
+</a>
+
+</div>
+
 </div>
