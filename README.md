@@ -55,9 +55,8 @@ Os conteúdos podem variar entre:
 notebook/
 │
 ├── cloud/
-│   ├── virtualizacao/
-│   └── /
-│
+│   ├── fundamentals/
+│     └── virtualizacao/
 └── README.md
 ```
 
