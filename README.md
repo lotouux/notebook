@@ -56,7 +56,8 @@ notebook/
 │
 ├── cloud/
 │   ├── fundamentals/
-│     └── virtualizacao/
+│     ├── virtualizacao.md
+│     └── cloud_computing.md
 └── README.md
 ```
 
