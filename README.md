@@ -55,12 +55,32 @@ Os conteúdos podem variar entre:
 notebook/
 │
 ├── cloud/
+│   │
 │   ├── fundamentals/
-│     ├── 1_virtualizacao.md
-│     ├── 2_cloud_computing.md
-│     └── 3_arquitetura_e_aplicacaoes_cloud.md
-│   ├── administration/
-│     ├── 1_aws.md
+│   │   ├── 01_virtualizacao.md
+│   │   ├── 02_cloud_computing.md
+│   │   └── 03_arquitetura_e_aplicacoes_cloud.md
+│   │
+│   ├── aws/
+│   │   └── 01_aws.md
+│   │
+│   ├── azure/
+│   │   └── 01_azure.md
+│   │
+│   ├── gcp/
+│   │   └── 01_gcp.md
+│   │
+│   ├── docker/
+│   │   └── 01_docker.md
+│   │
+│   ├── kubernetes/
+│   │   └── 01_kubernetes.md
+│   │
+│   ├── devops/
+│   │   └── 01_devops.md
+│   │
+│   └── README.md
+│
 └── README.md
 ```
 
