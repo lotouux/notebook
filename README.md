@@ -58,8 +58,9 @@ notebook/
 │   ├── fundamentals/
 │     ├── 1_virtualizacao.md
 │     ├── 2_cloud_computing.md
-│     ├── 3_arquitetura_e_aplicacaoes_cloud.md
-│     └── 4_aws.md
+│     └── 3_arquitetura_e_aplicacaoes_cloud.md
+│   ├── administration/
+│     ├── 1_aws.md
 └── README.md
 ```
 
