@@ -56,8 +56,10 @@ notebook/
 │
 ├── cloud/
 │   ├── fundamentals/
-│     ├── virtualizacao.md
-│     └── cloud_computing.md
+│     ├── arquiteetura_e_aplicacaoes_cloud.md
+│     ├── aws.md
+│     ├── cloud_computing.md
+│     └── virtualizacao.md
 └── README.md
 ```
 
