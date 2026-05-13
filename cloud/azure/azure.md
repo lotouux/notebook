@@ -312,7 +312,7 @@ Para aprofundamento do conteúdo, acesse minha trilha de estudos na Alura:
 
 <div align="center">
 
-<a href="#">
+<a href="https://cursos.alura.com.br/fundamentos-e-administracao-cloud-computing-beatriz-camargo-serafini-1778537955469-p1080290">
   <img src="https://img.shields.io/badge/📖%20Acessar%20Trilha%20na%20Alura-cd9bcc?style=for-the-badge" />
 </a>
 
